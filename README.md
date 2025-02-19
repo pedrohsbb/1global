@@ -3,7 +3,7 @@
 ## Overview
 
 Project developed for 1Global
-![1Global](https://mms.businesswire.com/media/20240711551962/pt/2181168/5/1GLOBAL_RGB.jpg?download=1)
+![1Global](images.png)
 
 This API allows the management of devices, including creation, updating, retrieval, and deletion. Devices have a name, brand, state (`available`, `in-use`, `inactive`), and a creation timestamp.
 
