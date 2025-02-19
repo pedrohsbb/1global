@@ -3,7 +3,8 @@
 ## Overview
 
 Project developed for 1Global
-![1Global](images.png)
+![1Global]
+(images.png)
 
 This API allows the management of devices, including creation, updating, retrieval, and deletion. Devices have a name, brand, state (`available`, `in-use`, `inactive`), and a creation timestamp.
 
