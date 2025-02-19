@@ -3,6 +3,7 @@
 ## Overview
 
 Project developed for 1Global
+
 <p align="center">
 <img src="images.png" alt="1Global" width="200"/>
 </p>
@@ -41,7 +42,7 @@ This API allows the management of devices, including creation, updating, retriev
    yarn start
    ```
 
-4. Access API documentation at `http://localhost:3000/api`.
+4. Access Swagger API documentation at `http://localhost:3000/api`.
 
 5. run test:
    ```bash
